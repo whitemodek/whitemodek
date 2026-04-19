@@ -1,12 +1,22 @@
 # Hi there, I'm whitemode 👋
 
 <p align="left">
+  <a href="https://github.com/whitemodek">
+    <img src="https://github-profile-trophy.vercel.app/?username=whitemodek&theme=flat&column=7&margin-w=15&no-bg=true" alt="trophy" />
+  </a>
+</p>
+
+<p align="left">
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=default&border_radius=10&ring_color=00ADD8" />
 </a>
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=default&border_radius=10&langs_count=6" />
 </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ТВОЙ_НИК&layout=compact&theme=default&border_radius=10" />
 </p>
 
 ### 🛠 Tech Stack
