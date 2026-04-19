@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=%20&fontSize=90" width="100%" />
   
-  <h1> Привет, я <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obH/giphy.gif" width="35"> </h1>
+  <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obH/giphy.gif" width="35"> </h1>
   
   <p><b>Backend Engineer | Golang & Python enthusiast | Open Source Contributor</b></p>
 
@@ -44,19 +44,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=<ВАШ_НИК>&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADD8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<ВАШ_НИК>&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADD8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADD8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADD8" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=<ВАШ_НИК>&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=whitemodek&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🛸 Find me on
 <div align="left">
-  <a href="https://t.me/<ВАШ_ТГ>">
+  <a href="https://t.me/dropthecash">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
