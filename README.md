@@ -1,4 +1,4 @@
-# Hi there, I'm <ТВОЕ_ИМЯ> 👋
+# Hi there, I'm whitemode 👋
 
 <p align="left">
 <a href="https://github.com/whitemodek">
