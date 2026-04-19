@@ -2,10 +2,10 @@
 
 <p align="left">
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 </p>
 
