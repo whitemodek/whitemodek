@@ -1,22 +1,12 @@
-# Hi there, I'm whitemode 👋
-
-<p align="left">
-  <a href="https://github.com/whitemodek">
-    <img src="https://github-profile-trophy.vercel.app/?username=whitemodek&theme=flat&column=7&margin-w=15&no-bg=true" alt="trophy" />
-  </a>
-</p>
+# Hello! I'm whitemode 👋
 
 <p align="left">
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=default&border_radius=10&ring_color=00ADD8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10" />
 </a>
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=default&border_radius=10&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=default&langs_count=6&border_radius=10" />
 </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whitemodek&layout=compact&theme=default&border_radius=10" />
 </p>
 
 ### 🛠 Tech Stack
@@ -27,18 +17,13 @@
 
 - **Tools & Technologies:**
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
----
 
 ### 📫 Connect with me:
 [<img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/dropthecash)
 
-<br />
-<br />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/whitemodek/whitemodek/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<br /><br />
