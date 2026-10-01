@@ -38,7 +38,6 @@ Backend-разработчик. Проектирую и пишу сервисы 
 
 | Repository | Description | Language |
 |:--|:--|:--:|
-| [**NotesAPI**](https://github.com/whitemodek/NotesAPI) | REST API для работы с заметками | Go |
 | [**LocalTunes-music-player**](https://github.com/whitemodek/LocalTunes-music-player) | Музыкальный плеер для локальной библиотеки | Go |
 
 ---
