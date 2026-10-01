@@ -4,7 +4,7 @@
 
 **Backend Developer**
 
-<sub>Go &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Docker</sub>
+<sub>Go &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Docker</sub>
 
 <br>
 
