@@ -1,30 +1,63 @@
+<div align="center">
 
-<p align="left">
+# WHITEMODEK
+
+**Backend Developer**
+
+<sub>Go &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Docker</sub>
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@dropthecash-161b22?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/dropthecash)
+[![Repositories](https://img.shields.io/badge/Repositories-5-161b22?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/whitemodek?tab=repositories)
+
+</div>
+
+<br>
+
+---
+
+## About
+
+Backend-разработчик. Проектирую и пишу сервисы на Go: API, работа с базами данных, асинхронное взаимодействие через очереди сообщений. Ценю простой код, предсказуемую архитектуру и воспроизводимое окружение.
+
+---
+
+## Stack
+
+| | |
+|:--|:--|
+| **Languages** | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=white) |
+| **Messaging** | ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+## Projects
+
+| Repository | Description | Language |
+|:--|:--|:--:|
+| [**NotesAPI**](https://github.com/whitemodek/NotesAPI) | REST API для работы с заметками | Go |
+| [**LocalTunes-music-player**](https://github.com/whitemodek/LocalTunes-music-player) | Музыкальный плеер для локальной библиотеки | Go |
+
+---
+
+## Activity
+
+<div align="center">
+
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=20" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=whitemodek&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&border_radius=6&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/whitemodek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&theme=dark&langs_count=6&border_radius=20" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemodek&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_radius=6&langs_count=6" />
 </a>
-</p>
 
-### 🛠 Tech Stack
+</div>
 
-- **Languages:** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+---
 
-- **Tools & Technologies:**
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/-Kafka-FCC624?style=flat&logo=linux&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  
-
-
-### 📫 Connect with me:
-[<img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/dropthecash)
-
-<br /><br />
+<div align="center">
+<sub>Open to collaboration &nbsp;·&nbsp; <a href="https://t.me/dropthecash">Telegram</a></sub>
+</div>
