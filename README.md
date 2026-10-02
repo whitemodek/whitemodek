@@ -38,7 +38,7 @@ Backend-разработчик. Проектирую и пишу сервисы 
 
 | Repository | Description | Language |
 |:--|:--|:--:|
-| [**LocalTunes-music-player**](https://github.com/whitemodek/LocalTunes-music-player) | Музыкальный плеер для локальной библиотеки | Go |
+| [**LocalTunes-music-player**](https://github.com/whitemodek/LocalTunes-music-player) | Локальный музыкальный плеер | Go |
 
 ---
 
